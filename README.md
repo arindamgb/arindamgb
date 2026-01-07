@@ -181,9 +181,9 @@
 
 <h3 align="left"> [ 📊 ] My Activity Feed</h3
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=arindamgb&show_icons=true&rank_icon=github&card_width=470&line_height=29&include_all_commits=true&&hide=issues&title_color=AAE08F&hide_border=false&bg_color=45,0f2027,203a43,2c5364&theme=dark&text_bold=true&ring_color=79FF97&custom_title=Arindam%27s%20Dev%20Footprint%20%E2%9C%A8&show=prs_merged,prs_merged_percentage" alt="arindamgb" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api?username=arindamgb&show_icons=true&rank_icon=github&card_width=470&line_height=29&include_all_commits=true&&hide=issues&title_color=AAE08F&hide_border=false&bg_color=45,0f2027,203a43,2c5364&theme=dark&text_bold=true&ring_color=79FF97&custom_title=Arindam%27s%20Dev%20Footprint%20%E2%9C%A8&show=prs_merged,prs_merged_percentage" alt="arindamgb" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arindamgb&size_weight=0.5&count_weight=0.5&layout=donut&custom_title=The%20Code%20I%20Speak%20%F0%9F%A4%96&card_height=300&title_color=AAE08F&langs_count=6&theme=dark&bg_color=45,0f2027,203a43,2c5364" alt="arindamgb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arindamgb&size_weight=0.5&count_weight=0.5&layout=donut&custom_title=The%20Code%20I%20Speak%20%F0%9F%A4%96&card_height=300&title_color=AAE08F&langs_count=6&theme=dark&bg_color=45,0f2027,203a43,2c5364" alt="arindamgb" /></p>
 
 ##
 
